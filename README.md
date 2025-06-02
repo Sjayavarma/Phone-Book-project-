@@ -44,7 +44,8 @@ Make sure your MySQL connector .jar file is correctly linked in the project libr
 UI INTERFACE :
 
 1. login page :
-![image](https://github.com/user-attachments/assets/1a08c56f-1068-4b3f-b6f6-dad48d7290b2)
+![image](![image](https://github.com/user-attachments/assets/fe940993-5da9-4766-969e-a973c29a018f)
+)
 
 2.user page :
 ![image](https://github.com/user-attachments/assets/ff48c655-6f2e-416f-a068-9ed98647583c)
